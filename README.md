@@ -1,6 +1,6 @@
 # Does poor educational infrastructure influence school dropout and child labor in Brazil?
 
-> This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program. Detailed analysis results can be found in [the full article (medium)]([/assets/images/tux.png](https://danilocardia.medium.com/does-poor-educational-infrastructure-influence-school-dropout-and-child-labor-in-brazil-c36c68150344)).
+> This project (Write a Data Science Blog Post) is part of Udacity Data Scientist Nanodegree Program. Detailed analysis results can be found in [the full article (medium)](https://danilocardia.medium.com/does-poor-educational-infrastructure-influence-school-dropout-and-child-labor-in-brazil-c36c68150344).
 
 ## Libraries
 - numpy
